@@ -10,3 +10,11 @@
 4. Grab a list of links using user modes
 5. Add more sorting methods
 6. Add a watch mode (download as new ones are posted)
+
+---
+
+## Required Packages
+*you can use `pip` to download these*
+
+* praw (For the Reddit API)
+* pyimgur (For the Imgur API)
