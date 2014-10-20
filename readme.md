@@ -1,5 +1,5 @@
 # Reddit Scraper
-*Downloads images from reddit*
+**Downloads images from reddit**
 
 ---
 
